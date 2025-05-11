@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+-Mechanical Engineering graduate  
+-Data Science & Machine Learning enthusiast  
+-Expertise in R&D, ML modeling, and CAD design  
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vschris)  
+📧 Email: vschris27@gmail.com
+
 <!--
 **vschris30/vschris30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
