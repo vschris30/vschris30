@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-- 🎓 Mechanical Engineer with a passion for systems engineering & manufacturing.
-- 🧠 Focused on solving real-world problems using core engineering principles.  
-- 📊 Skilled in Data Science & Machine Learning to enhance efficiency & productivity. 
-- 🔬 Experience in smart devices, ML-based process optimization & R&D for high-performance. 
+- 🎓 Mechanical Engineer passionate about systems and manufacturing  
+- 🧠 Solving real-world problems with core engineering and data-driven methods  
+- 📊 Skilled in ML, data science, and R&D for smart, efficient solutions  
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vschris)  
-📧 Email: vschris27@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/vschris) | 📧 vschris27@gmail.com
+
 
 
 
