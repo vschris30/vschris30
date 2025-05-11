@@ -1,11 +1,14 @@
 ## Hi there 👋
 
--Mechanical Engineering graduate  
--Data Science & Machine Learning enthusiast  
--Expertise in R&D, ML modeling, and CAD design  
+- 🎓 Mechanical Engineer with a passion for systems engineering & manufacturing.
+- 🧠 Focused on solving real-world problems using core engineering principles.  
+- 📊 Skilled in Data Science & Machine Learning to enhance efficiency & productivity. 
+- 🔬 Experience in smart devices, ML-based process optimization & R&D for high-performance. 
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vschris)  
 📧 Email: vschris27@gmail.com
+
+
 
 <!--
 **vschris30/vschris30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
