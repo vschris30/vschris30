@@ -2,7 +2,8 @@
 
 - 🎓 Mechanical Engineer passionate about systems and manufacturing  
 - 🧠 Solving real-world problems with core engineering and data-driven methods  
-- 📊 F1 Motorsport Enthusiast 🏎️ | 📈 Analyst | 🔬 R&D 
+- 🏎️ F1 Motorsport Enthusiast | 📊 Data-Driven Engineering Learner | 🔬 Engineering R&D Explorer
+
 
 📫 [LinkedIn](https://www.linkedin.com/in/vschris) | 📧 vschris27@gmail.com
 
