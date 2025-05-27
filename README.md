@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🎓 Mechanical Engineer passionate about systems and manufacturing  
-- 🧠 Solving real-world problems with core engineering and data-driven methods  
 - 🏎️ F1 Motorsport Enthusiast | 📊 Data-Driven Engineering Learner | 🔬 Engineering R&D Explorer
 
 
