@@ -2,7 +2,7 @@
 
 - 🎓 Mechanical Engineer passionate about systems and manufacturing  
 - 🧠 Solving real-world problems with core engineering and data-driven methods  
-- 📊 Skilled in ML, data science, and R&D for smart, efficient solutions  
+- 📊 F1 Motorsport Enthusiast 🏎️ | 📈 Analyst | 🔬 R&D 
 
 📫 [LinkedIn](https://www.linkedin.com/in/vschris) | 📧 vschris27@gmail.com
 
